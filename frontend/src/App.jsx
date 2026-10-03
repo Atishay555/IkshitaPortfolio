@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import NavBar from "./Components/navBar";
+import NavBar from "./Components/NavBar";
 import Hero from "./Components/Hero";
 import FeaturedProject from "./Components/FeaturedProject";
 import AboutSection from "./Components/AboutSection";
