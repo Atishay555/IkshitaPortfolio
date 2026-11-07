@@ -27,7 +27,7 @@ const FeaturedOverview = () => {
         </div>
         <div className="OverviewPoints">
           <img src="/images/overview1.png" alt="overview1" />
-          <h1>Tool Used</h1>
+          <h1>Tools Used</h1>
           <ul>
 
             <li>•  Articulate Storyline 360 </li>

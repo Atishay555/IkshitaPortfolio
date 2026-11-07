@@ -20,7 +20,7 @@ const ResultTakeaways = () => {
   rel="noopener noreferrer"
   className="experienceButton"
 >
-      <button>Experience the Project</button>
+      <button>Watch Project Walkthrough</button>
       </a>
     </div>
   );
