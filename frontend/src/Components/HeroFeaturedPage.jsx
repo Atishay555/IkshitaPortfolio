@@ -17,7 +17,7 @@ const HeroFeaturedPage = () => {
 >
  <button> Experience the project</button>
 </a>
-<h5>Enter your Email address to access the project.</h5>
+<h5>Enter your email address to access the project.</h5>
       </div>
     </div>
   )
