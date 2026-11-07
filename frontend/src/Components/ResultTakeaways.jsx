@@ -9,10 +9,10 @@ const ResultTakeaways = () => {
         learning experiences from concept to completion. It strengthened my
         skills in instructional design, visual design, prototyping and
         e-learning development while reinforcing the importance of
-        learner-centred design, clear communication, and meaningful
+        learner centred design, clear communication and meaningful
         interactions. The final module delivers an immersive learning experience
-        that encourages active decision-making, provides immediate feedback, and
-        helps learners understand the real-world impact of their choices.
+        that encourages active decision making, provides immediate feedback and
+        helps learners understand the real world impact of their choices.
       </p>
       <a
   href="https://drive.google.com/file/d/15byYfQ7YZr5L01qlDTeGxwiIkYx4ABmA/view"

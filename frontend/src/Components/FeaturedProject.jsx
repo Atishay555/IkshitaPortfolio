@@ -8,8 +8,8 @@ const FeaturedProject = () => {
       <div className='featuredSection'>
         <img src="/images/featuredProject.png" alt="featuredProject" />
         <div className='featuredRightSection'>
-          <h3>A scenario-based e-learning experience designed to bolster employee engagement</h3>
-          <p>This concept project was created to teach managers how to foster a culture of employee engagement and value positively.</p>
+          <h3>A scenario based e-learning experience designed to bolster employee engagement</h3>
+          <p>This project helps learners navigate real world stakeholder interactions and make informed decisions for successful project outcomes.</p>
           <a href="/featured-project" className="detailsButton"><button>
   Get the details
 </button></a>
