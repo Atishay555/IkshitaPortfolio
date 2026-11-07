@@ -19,9 +19,9 @@ const FeaturedOverview = () => {
           <img src="/images/overview2.png" alt="overview1" />
           <h1>Responsibilities</h1>
           <ul>
-            <li>•	Designed scenario-based, decision-driven learning experience</li>
+            <li>•	Designed scenario-based,decision-driven learning experience</li>
             <li>•	Created branching interactions with real workplace situations</li>
-            <li>•	Developed storyline, dialogues, and simulations (email, chat, meetings)</li>
+            <li>•	Developed storyline,dialogues,and simulations (email, chat, meetings)</li>
             <li>•	Implemented variables (Trust, Alignment, Progress) for dynamic outcomes</li>
           </ul>
         </div>

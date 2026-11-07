@@ -252,15 +252,15 @@ select {
 
   font-family: var(--heading-font);
 
-  font-size: clamp(48px, 5vw, 88px);
+  font-size: clamp(48px, 15vw, 88px)!important;
 
   line-height: 0.94;
 
-  font-weight: 400;
+  font-weight: 500 !important;
 
   text-align: center;
 
-  letter-spacing: -1.5px;
+  letter-spacing: 1.5px;
 
 }
 
@@ -274,7 +274,7 @@ select {
 
   font-family: var(--body-font);
 
-  font-size: 17px;
+  font-size: 25px !important;
 
   line-height: 1.4;
 
@@ -442,13 +442,13 @@ select {
 
   font-family: var(--heading-font);
 
-  font-size: clamp(28px, 2.5vw, 36px);
+  font-size: clamp(28px, 7vw, 36px)!important;
 
   line-height: 1.22;
 
-  font-weight: 400;
+  font-weight: 450 !important;
 
-  letter-spacing: -0.5px;
+  letter-spacing: 1.5px;
 
 }
 
@@ -462,7 +462,7 @@ select {
 
   font-family: var(--body-font);
 
-  font-size: 16px;
+  font-size: 20px !important;
 
   line-height: 1.5;
 
@@ -472,7 +472,7 @@ select {
 
 .featuredRightSection button {
 
-  width: 100%;
+  width: 98%;
 
   height: 54px;
 
@@ -616,7 +616,7 @@ select {
 
   font-family: var(--heading-font);
 
-  font-size: clamp(44px, 4vw, 60px);
+  font-size: clamp(44px, 3.4vw, 60px)!important;
 
   line-height: 0.95;
 

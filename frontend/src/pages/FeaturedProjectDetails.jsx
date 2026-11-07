@@ -1,5 +1,5 @@
 import React from "react";
-import NavBar from "../Components/NavBar";
+import FeaturedNavBar from "../Components/FeaturedNavBar";
 import HeroFeaturedPage from "../Components/HeroFeaturedPage";
 import FeaturedOverview from "../Components/FeaturedOverview";
 import Problem from "../Components/Problem";
@@ -15,7 +15,7 @@ import ResultTakeaways from "../Components/ResultTakeaways";
 const FeatureProjectDetail =()=>{
   return(
     <>
-    <NavBar></NavBar>
+    <FeaturedNavBar></FeaturedNavBar>
     <HeroFeaturedPage></HeroFeaturedPage>
     <FeaturedOverview></FeaturedOverview>
     <Problem></Problem>
