@@ -19,7 +19,7 @@ const MyProcess = () => {
       <a href="#mockup" className='Processbtn'>Visual Mock-up
       </a>
       <a href="#results" className='Processbtn'>
-      Results & Takeaways
+      Final Review & Reflection
       </a>
       </div>
     </div>

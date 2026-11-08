@@ -3,7 +3,7 @@ import React from "react";
 const ResultTakeaways = () => {
   return (
     <div id="results" className="Results">
-      <h1>Result and takeaways</h1>
+      <h1>Final Review & Reflection</h1>
       <p>
         This project demonstrates my ability to design engaging, scenario-based
         learning experiences from concept to completion. It strengthened my
